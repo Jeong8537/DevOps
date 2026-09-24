@@ -44,3 +44,7 @@ fi
 echo "현재 보관 중인 백업:"
 ls -l "$BACKUP_DIR"
 
+
+# log history
+echo "$(date '+%Y-%m-%d %H:%M:%S') 백업 완료: $FILEANME" >> "$BACKUP_DIR/backup.log"
+echo "로그 기록 완료"
