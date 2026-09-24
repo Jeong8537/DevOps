@@ -1,3 +1,3 @@
 def run():
-    print("This is conflict!)
+    print("This is conflict")
 run()
