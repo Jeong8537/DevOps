@@ -1,0 +1,4 @@
+월요일 - 리눅스
+화요일 - Git/Github
+수요일 - NetWork
+묙요일 - Docker?
