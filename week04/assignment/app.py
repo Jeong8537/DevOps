@@ -1,3 +1,3 @@
 def run():
-    print("Hello, Feature!")
+    print(run main)
 run()
