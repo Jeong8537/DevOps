@@ -1,4 +1,4 @@
-#7주차: 도커 컴포즈(Docker Compose)
+# 7주차: 도커 컴포즈(Docker Compose)
 ## 주요 실행 명령어
 ```bash
 # 컴포즈 YAML 문법 사전 검증

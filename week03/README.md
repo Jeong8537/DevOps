@@ -1,4 +1,4 @@
-#3주차: 셸 스크립팅(Qwen w/ Ollama)
+# 3주차: 셸 스크립팅(Qwen w/ Ollama)
 ## 주요 실행 명령어
 ```bash
 # Ollama 모델 다운로드 및 서버 상태 확인

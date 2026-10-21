@@ -1,4 +1,4 @@
-#6주차: 도커파일(Dockerfile)과 이미지 배포
+# 6주차: 도커파일(Dockerfile)과 이미지 배포
 ## 주요 실행 명령어
 ```bash
 # Dockerfile 빌드 및 GHCR 로그인/푸시
