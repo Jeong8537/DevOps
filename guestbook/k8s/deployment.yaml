@@ -17,3 +17,16 @@ spec:
       image: ghcr.io/jeong8537/guestbook:v1
       ports:
        - containerPort: 5000
+      envFrom:
+        - configMapRef:
+            name: guestbook-config
+        - secretRef:
+            name: guestbook-secret
+      resources:
+        requests:
+          memory: "64Mi"
+          cpu: "100m"
+        limits:
+          memory: "128Mi"
+          cpu: "500m"
+
